@@ -1,0 +1,1 @@
+This repository demonstrates a common HTML error: an unclosed paragraph tag.  The bug.html file contains the erroneous code, while bugSolution.html provides the corrected version.  This example highlights the importance of proper tag closure for correct HTML rendering and avoiding unexpected layout problems.
